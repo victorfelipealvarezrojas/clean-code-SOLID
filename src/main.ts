@@ -1,5 +1,6 @@
 import './style.css'
-import './07-tarea'
+import './SOLID/05-dependency-a'
+
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
